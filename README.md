@@ -55,16 +55,16 @@
 Here are some of my popular repositories:
 
 ### 🧠 Machine Learning
-- **Titanic-Survival-Prediction** – Predict passenger survival on the Titanic dataset using ML preprocessing and classifiers. :contentReference[oaicite:1]{index=1}  
-- **Spam_Mail_Detection** – Spam email detector using text preprocessing & TF-IDF. :contentReference[oaicite:2]{index=2}
+- **Titanic-Survival-Prediction** – Predict passenger survival on the Titanic dataset using ML preprocessing and classifiers.
+- **Spam_Mail_Detection** – Spam email detector using text preprocessing & TF-IDF.
 
 ### 🗺️ Utility & API Tools
-- **API-based-Weather-Fetcher-CLI** – CLI tool for weather using public weather APIs. :contentReference[oaicite:3]{index=3}  
+- **API-based-Weather-Fetcher-CLI** – CLI tool for weather using public weather APIs.
 
 ### 🚀 Full-Stack / Other  
-- **Resume-Skill-Matcher-and-Skill-Recommender** – Skill matcher & recommendations. :contentReference[oaicite:5]{index=5}  
+- **Resume-Skill-Matcher-and-Skill-Recommender** – Skill matcher & recommendations.
 
-👉 Browse all of them here: https://github.com/Akashkrjana?tab=repositories :contentReference[oaicite:6]{index=6}
+👉 Browse all of them here: https://github.com/Akashkrjana?tab=repositories
 
 ---
 
